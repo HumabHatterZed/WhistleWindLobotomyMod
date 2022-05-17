@@ -1,6 +1,6 @@
 # WhistleWind's Lobotomy Corp Mod (deprecated)
 
-## This is an archived version of the mod before pre-API 2.0
+## This is an archived version of the mod before API 2.0
 
 ### Face the Fear. Make the Future.
 
